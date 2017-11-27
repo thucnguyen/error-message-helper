@@ -1,0 +1,1 @@
+This is a tiny helper, it help to display validation error messages after responding from server (Rails app) in json format.
